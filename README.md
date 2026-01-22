@@ -148,7 +148,7 @@ Me chamo Roger de Menezes, tenho 23 anos e sou natural do Rio de Janeiro. Atualm
 <p>
 
 
-<a href="https://discord.com/users/1083428777809432606"><img src="https://lanyard.kyrie25.dev/api/1083428777809432606?imgStyle=square" /></a>  
+<a align="right" href="https://discord.com/users/1083428777809432606"><img src="https://lanyard.kyrie25.dev/api/1083428777809432606?imgStyle=square" /></a>  
 
  
 
