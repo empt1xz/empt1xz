@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Roger Menezes</h1>
 
 ###
 
@@ -36,39 +36,6 @@
 </div>
 
 ###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 👩🏻‍💻 Roger Menezes
-
 
 
 **`Desenvolvedor FullStack`**
