@@ -42,22 +42,6 @@
 
 Me chamo Roger de Menezes, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente curso Engenharia de Software pela UFRJ, com o curso técnico em informática e programação. Atualmente. Sou apaixonado por tecnologia e sempre busco evoluir profissionalmente de acordo com o Mercado. 
 
-<p align="left">
-    <a href="https://github.com/empt1xz?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/empt1xz?color=00ff00&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/empt1xz?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/empt1xz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
