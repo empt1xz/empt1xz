@@ -4,7 +4,7 @@
 ```bash
 > Roger Menezes
 
-Senior Software Engineer @ Ifood
+Senior Software Engineer @ iFood
 Product Engineer • Full Stack Developer
 
 ──────────────────────────────────────────────
