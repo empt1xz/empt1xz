@@ -4,7 +4,7 @@
 ```bash
 > Roger Menezes
 
-Senior Software Engineer @ PicPay
+Senior Software Engineer @ Ifood
 Product Engineer • Full Stack Developer
 
 ──────────────────────────────────────────────
