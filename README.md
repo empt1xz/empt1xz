@@ -9,7 +9,7 @@ Product Engineer • Full Stack Developer
 
 ──────────────────────────────────────────────
 
-Languages     :: TypeScript • JavaScript • C# • PHP • Java • Python
+Languages     :: TypeScript • JavaScript • C# • PHP • Rust 
 Frontend      :: React • Next.js • Vue • Angular
 Backend       :: Node.js • ASP.NET Core • Laravel • Express
 Cloud         :: AWS
